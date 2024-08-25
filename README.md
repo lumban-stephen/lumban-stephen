@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🌱 **Currently Working On:** An ML project focused on improving agricultural practices.
+- 🌱 **Currently Working On:** Thesis on Predicitive Models
 - 👨‍🎓 **Education:** Pursuing a degree in Computer Science at the University of Cebu.
 - 💻 **Learning:** Exploring the .NET Framework to expand my backend development skills.
 
