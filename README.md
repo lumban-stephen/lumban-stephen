@@ -1,7 +1,7 @@
 # 💫 About Me:
-- 🌱 **Currently Working On:** Thesis on Predicitive Models
+- 🌱 **Currently Working On:** Using Non-Linear and Linear Decision Tree for Prediction
 - 👨‍🎓 **Education:** Pursuing a degree in Computer Science at the University of Cebu.
-- 💻 **Learning:** Exploring the .NET Framework to expand my backend development skills.
+- 💻 **Learning:** Exploring the .NET Framework integrated with ReactJS to expand my backend development skills.
 
 
 ## 🌐 Socials:
