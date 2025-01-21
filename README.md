@@ -1,7 +1,7 @@
 # 💫 About Me:
-- 🌱 **Currently Working On:** Using Non-Linear and Linear Decision Tree for Prediction
+- 🌱 **Currently Working On:** Academic Outcome and Performance Prediction using Deep Learning 
 - 👨‍🎓 **Education:** Pursuing a degree in Computer Science at the University of Cebu.
-- 💻 **Learning:** Exploring the .NET Framework integrated with ReactJS to expand my backend development skills.
+- 💻 **Learning:** Python Flask
 
 
 ## 🌐 Socials:
